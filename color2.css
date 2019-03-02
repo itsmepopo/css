@@ -1,0 +1,18 @@
+:root {
+    --color-0: #ffffff; /* box color */
+  
+    --color-1: #cceecc; /* */
+    --color-2: #e3f1af; /* */
+    --color-3: #4bc84b; /* main color */
+    --color-4: #71da35; /* sub  color */
+    --color-5: #cff1af; /* */
+  
+    --logo-URL: url("https://2.bp.blogspot.com/-abFpU_UyxAo/XHkEWNdd-QI/AAAAAAAAGdc/FdMtKEXoZMcLWdDZCDJKyKYVq3mbyWL5wCLcBGAs/s1600/%25EB%25A1%259C%25EA%25B3%25A0%2B6.png");
+    --logo-Width: 158px;
+    --logo-Height: 50px;
+    --logo-size-mobile: 90px 32px;
+  
+    --icon-URL: url("https://2.bp.blogspot.com/-abFpU_UyxAo/XHkEWNdd-QI/AAAAAAAAGdc/FdMtKEXoZMcLWdDZCDJKyKYVq3mbyWL5wCLcBGAs/s1600/%25EB%25A1%259C%25EA%25B3%25A0%2B6.png");
+    --pre-comment: "움짤 공장장 ";
+    --sub-comment: "명 열일중!";
+  }
